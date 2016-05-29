@@ -173,4 +173,6 @@ idea
 *.iml
 .idea/
 *.yml
+/libs
+/out
 !application.yml
