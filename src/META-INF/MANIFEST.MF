@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: dom4j-1.6.1.jar druid-1.0.6.jar dubbo-2.5.3.jar log4j-1.2.
+ 17.jar mysql-5.1.30.jar zkclient-0.1.jar aspectjweaver.jar commons-io
+ -2.4.jar aopalliance-1.0.jar commons-net-3.3.jar slf4j-api-1.7.6.jar 
+ zookeeper-3.3.3.jar jaxen-1.1-beta-7.jar jackson-all-1.8.2.jar common
+ s-pool-1.5.6.jar jackson-core-2.4.1.jar commons-lang3-3.3.2.jar commo
+ ns-logging-1.2.jar commons-httpclient-3.1.jar netty-all-5.0.0.Alpha1.
+ jar commons-logging-api-1.1.jar spring-tx-4.0.0.RELEASE.jar spring-ao
+ p-4.0.0.RELEASE.jar spring-orm-4.0.0.RELEASE.jar spring-core-4.0.0.RE
+ LEASE.jar spring-jdbc-4.0.0.RELEASE.jar spring-beans-4.0.0.RELEASE.ja
+ r spring-aspects-4.0.0.RELEASE.jar spring-context-4.0.0.RELEASE.jar s
+ pring-expression-4.0.0.RELEASE.jar spring-context-support-4.0.0.RELEA
+ SE.jar org.springframework.aop-3.0.5.RELEASE.jar
+Main-Class: com.test.TestMain
+
