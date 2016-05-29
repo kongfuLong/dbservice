@@ -175,4 +175,5 @@ idea
 *.yml
 /libs
 /out
+*.MF
 !application.yml
